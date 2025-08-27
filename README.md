@@ -7,7 +7,7 @@ Webserv est un serveur HTTP écrit en C++ 98 conforme aux standards imposés, in
 
 - Serveur HTTP multiclient fonctionnant en mode non bloquant (poll/epoll/select/kqueue).
 - Gestion complète des requêtes HTTP GET, POST, DELETE.
-- Support des fichiers statiques et CGI (PHP, Python, etc.).
+- Support des fichiers statiques et CGI (Ruby, Pearl, Python, etc.).
 - Analyse et respect d'un fichier de configuration modèle NGINX pour configurer les ports, routes, limites, redirections, pages d'erreur, etc.
 - Traitement correct des erreurs HTTP avec pages personnalisées.
 - Support des uploads de fichiers via POST.
